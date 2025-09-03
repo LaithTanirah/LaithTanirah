@@ -1,64 +1,93 @@
 <h1 align="center">Hi 👋, I'm Laith Tannirah</h1>
-<h3 align="center">A Passionate Full Stack Developer from Jordan</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & PERN Specialist | Scrum Master</h3>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Full Stack Web Applications (MERN & PERN)**
-- 🌱 Learning & Exploring **Next.js, TypeScript, and Scalable Architectures**
-- 💬 Ask me about **React, Node.js, Express, PostgreSQL, MongoDB**
-- ⚡ Fun fact: I enjoy solving real-world problems through clean and scalable code.
+## 🙋‍♂️ About Me
+- 💻 I’m a **Full Stack Developer** specializing in **MERN & PERN stacks**.  
+- 📚 Graduated with **B.Sc. Software Engineering (Al-Zaytoonah University of Jordan)**.  
+- 🎓 Completed **500+ hours Full-Stack Bootcamp at Meraki Academy**.  
+- 🧩 Passionate about **solving problems, real-time apps, and scalable systems**.  
+- ⚡ Fun fact: I enjoy mentoring juniors and exploring the latest JavaScript frameworks.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-**Databases & Tools:**  
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚚 [AVOCADO (Gorcy App)](https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7)
-A **delivery management platform** with role-based dashboards (Customer, Driver, Admin).  
-- Real-time tracking with maps  
-- In-app messaging with Socket.IO  
-- Admin analytics & monitoring  
-
-**Tech Stack:** React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Socket.IO, JWT, MUI  
+- Multi-role platform (**Customer, Driver, Admin**)  
+- Real-time order tracking with **Maps**  
+- In-app **Chat (Socket.IO)**  
+- Role-based authentication with **JWT**  
+- Admin dashboard with **analytics & monitoring**  
+**Stack:** React, Next.js, Node.js, Express, PostgreSQL, TypeScript, Socket.IO, MUI  
 
 ---
 
 ### 🛒 E-SHOP
-An **E-commerce platform** with secure payment integration.  
-- Responsive UI with React + Bootstrap  
-- RESTful API with Node.js & Express  
-- MongoDB for users & products  
-- Stripe payment gateway  
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe, JWT  
+- Responsive UI with **React & Bootstrap**  
+- RESTful APIs with **Node.js & Express**  
+- **MongoDB** for products, users & orders  
+- **Stripe** integration for secure payments  
+- Admin dashboard for inventory management  
+**Stack:** React, Node.js, Express, MongoDB, Stripe, JWT  
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education & Certifications
+- 🎓 **B.Sc. Software Engineering** – Al-Zaytoonah University of Jordan (2018–2022)  
+- 🏅 **Full-Stack Development Bootcamp** – Meraki Academy (2025)  
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaithTanirah&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaithTanirah&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaithTanirah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaithTanirah&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaithTanirah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🏆 Achievements
+- 🚀 Built full delivery management platform (AVOCADO) as **Scrum Master & Lead Developer**  
+- 🛠️ Developed multiple freelance projects including **E-commerce systems**  
+- 🌐 Active open-source contributor on GitHub  
 
 ---
 
@@ -67,7 +96,9 @@ An **E-commerce platform** with secure payment integration.
   <a href="mailto:laith.tanirah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/laith-tannirah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/LaithTanirah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7"><img src="https://img.shields.io/badge/YouTube Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
-✨ *Check out my repositories and feel free to collaborate!* 🚀
+
+<p align="center">✨ *Thanks for visiting my profile! Feel free to check my repositories and collaborate.* ✨</p>
