@@ -62,8 +62,9 @@
 - Role-based authentication with **JWT**  
 - Admin dashboard with **analytics & monitoring**  
 **Stack:** React, Next.js, Node.js, Express, PostgreSQL, TypeScript, Socket.IO, MUI
+  <p align="center">
     <a href="https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7"><img src="https://img.shields.io/badge/YouTube Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
+</p>
 ---
 
 ### 🛒 E-SHOP
