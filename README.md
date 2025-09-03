@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Laith Tannirah</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & PERN Specialist | Scrum Master</h3>
 
+<!-- GIF in Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
+
 - 💻 I’m a **Full Stack Developer** specializing in **MERN & PERN stacks**.  
 - 📚 Graduated with **B.Sc. Software Engineering (Al-Zaytoonah University of Jordan)**.  
 - 🎓 Completed **500+ hours Full-Stack Bootcamp at Meraki Academy**.  
