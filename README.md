@@ -55,16 +55,14 @@
 
 ## 📌 Featured Projects
 
-### 🚚 AVOCADO (Gorcy App)
+### 🚚 [AVOCADO (Gorcy App)](https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7)
 - Multi-role platform (**Customer, Driver, Admin**)  
 - Real-time order tracking with **Maps**  
 - In-app **Chat (Socket.IO)**  
 - Role-based authentication with **JWT**  
 - Admin dashboard with **analytics & monitoring**  
-**Stack:** React, Next.js, Node.js, Express, PostgreSQL, TypeScript, Socket.IO, MUI
-  <p>
-    <a href="https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7"><img src="https://img.shields.io/badge/YouTube Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
- </p>
+**Stack:** React, Next.js, Node.js, Express, PostgreSQL, TypeScript, Socket.IO, MUI  
+
 ---
 
 ### 🛒 E-SHOP
@@ -93,10 +91,22 @@
 
 ---
 
-## 🏆 Achievements
-- 🚀 Built full delivery management platform (AVOCADO) as **Scrum Master & Lead Developer**  
-- 🛠️ Developed multiple freelance projects including **E-commerce systems**  
-- 🌐 Active open-source contributor on GitHub  
+## 📈 Profile Insights
+![Profile Views](https://komarev.com/ghpvc/?username=LaithTanirah&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/LaithTanirah?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/LaithTanirah?affiliations=OWNER&style=social)
+
+---
+
+## 💡 Quote
+> "Clean code always looks like it was written by someone who cares."  
+
+---
+
+## ☕ Support Me
+If you like my work, consider supporting me:  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
@@ -109,4 +119,4 @@
 
 ---
 
-<p align="center">✨ *Thanks for visiting my profile! Feel free to check my repositories and collaborate.* ✨</p>
+<p align="center">✨ Thanks for visiting my profile! Feel free to check my repositories and collaborate. ✨</p>
