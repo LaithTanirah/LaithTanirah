@@ -118,10 +118,7 @@ If you like my work, consider supporting me:
   </a>
 </p>
 
-<!-- GIF for Support -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="coffee gif" />
-</p>
+
 
 ---
 
