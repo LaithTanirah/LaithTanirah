@@ -55,7 +55,7 @@
 
 ## 📌 Featured Projects
 
-### 🚚 [AVOCADO (Gorcy App)](https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7)
+### 🚚 AVOCADO (Gorcy App)
 - Multi-role platform (**Customer, Driver, Admin**)  
 - Real-time order tracking with **Maps**  
 - In-app **Chat (Socket.IO)**  
