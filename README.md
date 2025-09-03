@@ -55,10 +55,6 @@
 
 ## 📌 Featured Projects
 
-<!-- GIF for Projects -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="project coding gif" />
-</p>
 
 ### 🚚 [AVOCADO (Gorcy App)](https://youtu.be/H-DcLuDkf9w?si=GMwAS1HYFGjvBPh7)
 - Multi-role platform (**Customer, Driver, Admin**)  
