@@ -9,6 +9,7 @@
 ---
 
 ## 🙋‍♂️ About Me
+<!-- GIF on the right side -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
 
 - 💻 I’m a **Full Stack Developer** specializing in **MERN & PERN stacks**.  
